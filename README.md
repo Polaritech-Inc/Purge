@@ -1,0 +1,2 @@
+# Purge
+The Polaritech Unified Reliable Game Environment (PURGE) is a C++ library for writing cutting-edge games for Linux.
